@@ -1,7 +1,9 @@
 Solitaire Game
 ==============
 
-The game is developed using Ring and RingRayLib.
+The game is developed using the Ring programming language and RingRayLib.
+
+The code is 100% generated using Claude Sonnet 4.6
 
 ## Install
 
